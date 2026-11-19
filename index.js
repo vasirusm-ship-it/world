@@ -110,7 +110,7 @@ const tavoLike = {
             const c = ctx();
             const id = c.chatId || (c.getCurrentChatId && c.getCurrentChatId());
             if (!id) return null;
-            return { id: String(id), name: String(id), persona: { name: c.name1 || '' }, characters: charList() };
+            return { id: String(id), name: String(id), persona: { name: c.name1 || '', description: (c.powerUserSettings && c.powerUserSettings.persona_description) || '' }, characters: charList() };
         },
     },
     character: {

@@ -7,7 +7,7 @@
     "css": "style.css",
     "generate_interceptor": "pusyaWorldBeforeGenerate",
     "author": "PUSYA · t.me/pusgir",
-    "version": "0.3.1",
+    "version": "0.5.0",
     "homePage": "https://t.me/pusgir",
     "auto_update": true
 }
