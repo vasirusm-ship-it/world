@@ -1,0 +1,5 @@
+.pwlx { display: flex; flex-direction: column; gap: 8px; padding: 6px 2px; }
+.pwlx-note { font-size: 0.9em; opacity: 0.85; line-height: 1.4; }
+.pwlx-row { display: flex; gap: 8px; }
+.pwlx-b { flex: 1; padding: 7px 10px; border-radius: 10px; border: 1px solid var(--SmartThemeBorderColor); background: var(--SmartThemeBlurTintColor); color: var(--SmartThemeBodyColor); cursor: pointer; }
+.pwlx-ghost { opacity: 0.85; }

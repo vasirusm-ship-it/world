@@ -1,0 +1,13 @@
+{
+    "display_name": "PUSYA WORLD 🌳",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "generate_interceptor": "pusyaWorldBeforeGenerate",
+    "author": "PUSYA · t.me/pusgir",
+    "version": "0.3.0",
+    "homePage": "https://t.me/pusgir",
+    "auto_update": true
+}
